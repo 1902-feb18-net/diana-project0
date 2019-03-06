@@ -1,0 +1,14 @@
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/obj/Debug/netcoreapp2.2/Store.Library.csprojAssemblyReference.cache
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/obj/Debug/netcoreapp2.2/Store.Library.csproj.CoreCompileInputs.cache
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/obj/Debug/netcoreapp2.2/Store.Library.AssemblyInfoInputs.cache
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/obj/Debug/netcoreapp2.2/Store.Library.AssemblyInfo.cs
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/bin/Debug/netcoreapp2.2/Store.Library.deps.json
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/bin/Debug/netcoreapp2.2/Store.Library.dll
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/bin/Debug/netcoreapp2.2/Store.Library.pdb
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/obj/Debug/netcoreapp2.2/Store.Library.dll
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/obj/Debug/netcoreapp2.2/Store.Library.pdb
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/bin/Debug/netcoreapp2.2/Store.Library.runtimeconfig.json
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/bin/Debug/netcoreapp2.2/Store.Library.runtimeconfig.dev.json
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.dll
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.pdb
+/Users/dianajuarez/Projects/MakeupStore/Store.Library/obj/Debug/netcoreapp2.2/Store.Library.csproj.CopyComplete

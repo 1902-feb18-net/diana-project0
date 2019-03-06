@@ -1,0 +1,11 @@
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.deps.json
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.runtimeconfig.json
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.runtimeconfig.dev.json
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.dll
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.pdb
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/obj/Debug/netcoreapp2.2/MakeupStore.DataAccess.csprojAssemblyReference.cache
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/obj/Debug/netcoreapp2.2/MakeupStore.DataAccess.csproj.CoreCompileInputs.cache
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/obj/Debug/netcoreapp2.2/MakeupStore.DataAccess.AssemblyInfoInputs.cache
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/obj/Debug/netcoreapp2.2/MakeupStore.DataAccess.AssemblyInfo.cs
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/obj/Debug/netcoreapp2.2/MakeupStore.DataAccess.dll
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.DataAccess/obj/Debug/netcoreapp2.2/MakeupStore.DataAccess.pdb

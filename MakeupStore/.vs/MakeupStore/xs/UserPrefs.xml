@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3EB011A5-DF0C-48FD-973F-3EDB9DA9378D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Store.Library/Customer.cs">
+    <Files>
+      <File FileName="MakeupStore.ConsoleApp/Program.cs" Line="119" Column="52" />
+      <File FileName="Store.Library/ICustomer.cs" Line="17" Column="57" />
+      <File FileName="Store.Library/Customer.cs" Line="153" Column="58" />
+      <File FileName="Store.Library/IOrder.cs" Line="11" Column="51" />
+      <File FileName="Store.Library/Order.cs" Line="18" Column="36" />
+      <File FileName="MakeupStore.DataAccess/Orders.cs" Line="24" Column="1" />
+      <File FileName="MakeupStore.DataAccess/Customer.cs" Line="1" Column="1" />
+      <File FileName="MakeupStore.DataAccess/OrderHistory.cs" Line="1" Column="1" />
+      <File FileName="MakeupStore.DataAccess/InventoryItem.cs" Line="12" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MakeupStore" expanded="True">
+            <Node name="MakeupStore.ConsoleApp" expanded="True" />
+            <Node name="MakeupStore.DataAccess" expanded="True" />
+            <Node name="Store.Library" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>MakeupStore.ConsoleApp/MakeupStore.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.MakeupStore.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

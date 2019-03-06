@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Library", "Store.Library\Store.Library.csproj", "{63253293-104C-4F8F-82D7-AFAE5D500593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeupStore.DataAccess", "MakeupStore.DataAccess\MakeupStore.DataAccess.csproj", "{D19768F5-FDAD-48D0-A967-07EFA913DF62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeupStore.ConsoleApp", "MakeupStore.ConsoleApp\MakeupStore.ConsoleApp.csproj", "{1DFBF67F-4B0E-448C-8AF7-5138B8F5AD15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63253293-104C-4F8F-82D7-AFAE5D500593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63253293-104C-4F8F-82D7-AFAE5D500593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63253293-104C-4F8F-82D7-AFAE5D500593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63253293-104C-4F8F-82D7-AFAE5D500593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19768F5-FDAD-48D0-A967-07EFA913DF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19768F5-FDAD-48D0-A967-07EFA913DF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19768F5-FDAD-48D0-A967-07EFA913DF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19768F5-FDAD-48D0-A967-07EFA913DF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFBF67F-4B0E-448C-8AF7-5138B8F5AD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFBF67F-4B0E-448C-8AF7-5138B8F5AD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFBF67F-4B0E-448C-8AF7-5138B8F5AD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFBF67F-4B0E-448C-8AF7-5138B8F5AD15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

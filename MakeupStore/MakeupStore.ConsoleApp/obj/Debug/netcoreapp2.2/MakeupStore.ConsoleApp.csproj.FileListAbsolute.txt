@@ -1,0 +1,16 @@
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.deps.json
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.runtimeconfig.json
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.runtimeconfig.dev.json
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.dll
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.pdb
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/obj/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.csprojAssemblyReference.cache
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/obj/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/obj/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.AssemblyInfoInputs.cache
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/obj/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.AssemblyInfo.cs
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/obj/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.dll
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/obj/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.pdb
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.dll
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/MakeupStore.DataAccess.pdb
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/obj/Debug/netcoreapp2.2/MakeupStore.ConsoleApp.csproj.CopyComplete
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/Store.Library.dll
+/Users/dianajuarez/Projects/MakeupStore/MakeupStore.ConsoleApp/bin/Debug/netcoreapp2.2/Store.Library.pdb
