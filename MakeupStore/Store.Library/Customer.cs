@@ -1,4 +1,3 @@
-﻿using System;
 using System.Collections.Generic;
 using MakeupStore.DataAccess;
 using Microsoft.EntityFrameworkCore;
@@ -108,7 +107,6 @@ namespace Store.Library
                 string ans = "";
                 string where = "";
 
-               //    o.
                 if (defaultStoreLocation != null)
                 {
                     Console.WriteLine($"Would you like to shop at {defaultStoreLocation}?");
@@ -136,7 +134,7 @@ namespace Store.Library
                     }
                     where = Console.ReadLine();
                 }
-                
+
 
 
                 Console.WriteLine($"Displaying Inventory for {where}:");
@@ -145,18 +143,26 @@ namespace Store.Library
                         Console.WriteLine($"{item.ItemId}. {item.ItemName} Price: ${item.Price}");
                     }
                     int it = 0;
-                 float tot = 0;
+                    float tot = 0;
                 while (true)
                 {
-                    
-                Console.WriteLine("Enter ID to Item you want:");
-                it = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Enter ID to Item you want:");
+                    it = Convert.ToInt32(Console.ReadLine());
+
+                foreach (var item in dbContext.InventoryItem.Include(i => i.Inventory))
+                {
+                    if(it == item.ItemId)
+                    {
+                        tot += item.Price;
+                    }
+                }
 
                 o.LocationName = where;
-
                     o.ItemId = it;
-
                     o.OrderTime = DateTime.Now;
+
+                //dbContext.Database.ExecuteSqlCommand("UPDATE TABLE [dbo].[Inventory] WHERE [LocationId] ==");
 
                     foreach (var cust in dbContext.Customer.Include(c => c.Orders))
                     {
@@ -190,7 +196,7 @@ namespace Store.Library
                     ans = Console.ReadLine();
 
                     if(ans.Equals("n"))
-                    { 
+                    {
                         break;
                     }
 
@@ -223,6 +229,6 @@ namespace Store.Library
             Console.WriteLine(myHistory);
         }
 
-        
+
     }
 }
